@@ -1,4 +1,5 @@
 # GitPizza
+My name is Elias
 
 Do you love pizza and want to try different variations? *GitPizza* is a list of pizzas to try!
 
