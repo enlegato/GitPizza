@@ -7,3 +7,4 @@ Do you love pizza and want to try different variations? *GitPizza* is a list of 
 
 - [Margherita](margherita.md)
 - [Kevin's Special](kevin.md)
+- [Elias's Pizza](elias.md)
